@@ -24,6 +24,11 @@ Converts rectangle image to a square image, without losing any data.
 
 -   Whatsapp's IOS App uses similar algorithm to create square profile picture before saving profile picture.
 
+```Py
+# Write this command to convert rectangle image to square.
+python3 "IMAGE_NAME" "EXTENSION"
+```
+
 # Examples
 
 |                                               Before                                               |                                                       After                                                       |
